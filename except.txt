@@ -8,3 +8,9 @@ temp
 emoji
 dumps
 user_data
+webview
+working
+user_data#2
+user_data#3
+user_data#4
+user_data#5
