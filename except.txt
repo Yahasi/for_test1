@@ -1,2 +1,10 @@
 prefix
 settings
+shortcuts-custom.json
+shortcuts-default.json
+usertag
+countries
+temp
+emoji
+dumps
+user_data
